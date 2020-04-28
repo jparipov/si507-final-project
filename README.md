@@ -5,7 +5,7 @@ This project contains an interactive terminal for users to explore various trave
 
 Websites scraped:
 - www.planetware.com
-- wikipedia.com/en
+- www.wikipedia.org
 
 Dark Sky API Key:
 - The API key is located in a file called secrets.py. Within this file, the api_key = 'string containing key'.
