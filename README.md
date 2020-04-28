@@ -7,6 +7,14 @@ Dark Sky API Key:
 - The API key is located in a file called secrects.py. Within this file, the api_key = 'string containing key'.
 
 Add Ons:
-- Beautiful Soup
+from bs4 import BeautifulSoup
+import requests
+import json
+import secrets # file that contains API key
+import time
+import ast
+import sqlite3
+from datetime import datetime
+import plotly.graph_objs as go 
 
 To interact with this program, obtain api key, save api key in secrets.py file, and run final-project.py
