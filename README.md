@@ -6,4 +6,7 @@ This project contains an interactive terminal for users to explore various trave
 Dark Sky API Key:
 - The API key is located in a file called secrects.py. Within this file, the api_key = 'string containing key'.
 
+Add Ons:
+- Beautiful Soup
+
 To interact with this program, obtain api key, save api key in secrets.py file, and run final-project.py
